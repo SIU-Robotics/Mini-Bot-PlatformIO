@@ -4,9 +4,12 @@ https://platformio.org/
 
 This needs to be installed on your IDE of choice in order to upload to the ESP-32.
 Currently we are using an ESP-32 not directly listed in their choices so we will use the next closest which is
- > Espressif ESP32 Dev Module (ESP32, 240MHz, ROM: 4M, RAM 320K)
-   ⚙︎ arduino <--- USE THIS ONE FOR NOW
-   ⚙︎ espresif (something like this)
+
+ -> Espressif ESP32 Dev Module (ESP32, 240MHz, ROM: 4M, RAM 320K)
+
+ --  ⚙︎ arduino <--- USE THIS ONE FOR NOW
+
+ -- ⚙︎ espresif (something like this)
 
 There are also like a million different things we can do with this tool and specifically for the ESP-32 we are using, so I will link to the documentation page for later user: https://docs.platformio.org/en/latest/platforms/espressif32.html#tutorials
 
