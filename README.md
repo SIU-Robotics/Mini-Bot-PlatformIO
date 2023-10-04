@@ -21,28 +21,28 @@ Mini-Bot Testing code is to be used for the inital Mini-Bot to test the function
 
   # Large Libraries
 
-    # Arduino.h
-      This is the basic arduino library for use of basic functions built into the library.
+- Arduino.h
+  This is the basic arduino library for use of basic functions built into the library.
 
-    # Roboclaw.h
-      This is used for the motor controllers. Most of the needed functions for controlling the motors will be in here.
+- Roboclaw.h
+  This is used for the motor controllers. Most of the needed functions for controlling the motors will be in here.
 
   # Homemade Libraries
 
-    # Setup.h
-      This is to clean up our setup function inside of main. This houses all of the needed functions to setup the motors, servos, etc. to get ready to control them, and set them to their initial state.
+- Setup.h
+  This is to clean up our setup function inside of main. This houses all of the needed functions to setup the motors, servos, etc. to get ready to control them, and set them to their initial state.
 
-    # motorMovementsBasic.h
-      This will house all of our simply motor commands (i.e. All forward, all reverse, all stop). 
+- motorMovementsBasic.h
+  This will house all of our simply motor commands (i.e. All forward, all reverse, all stop). 
 
-    # motorMovementAdvanced.h
-      WIP
+- motorMovementAdvanced.h
+  WIP
 
-    # steering.h
-      WIP
-      
-    # controlSystem.h
-      WIP
+- steering.h
+  WIP
+
+- controlSystem.h
+  WIP
 
 # Uploading to ESP-32
   For now we will just simply use the upload function (TBD if this works if it doesn't we will look into the way specified on the page)
