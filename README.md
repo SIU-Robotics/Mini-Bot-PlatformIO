@@ -20,9 +20,9 @@ Mini-Bot Testing code is to be used for the inital Mini-Bot to test the function
 - Speed control
 - Specific motor control
 
-# Libraries
+# Header Files
 
-  # Large Libraries
+  # Large Header Files
 
 - Arduino.h
 
@@ -32,7 +32,7 @@ Mini-Bot Testing code is to be used for the inital Mini-Bot to test the function
   
    - This is used for the motor controllers. Most of the needed functions for controlling the motors will be in here.
 
-  # Homemade Libraries
+  # Homemade Header Files
 
 - Setup.h
   
